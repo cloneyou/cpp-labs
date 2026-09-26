@@ -1,3 +1,5 @@
+// Reads a student mark and prints pass/fail status via a function (excellent, passed, or needs improvement).
+
 #include <iostream>
 using namespace std;
 

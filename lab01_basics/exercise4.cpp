@@ -1,3 +1,5 @@
+// Reads four integers, multiplies only the non-zero ones, then prints the product.
+
 #include <iostream>
 using namespace std;
 

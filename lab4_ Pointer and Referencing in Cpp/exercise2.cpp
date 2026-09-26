@@ -1,3 +1,5 @@
+// Reads age, prints the value and the memory address using a pointer.
+
 #include <iostream>
 using namespace std;
 

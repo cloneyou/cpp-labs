@@ -1,3 +1,5 @@
+// Shopping calculator: reads price, quantity, and discount %, computes subtotal, discount, and final price using functions, then prints results.
+
 #include <iostream>
 #include <iomanip> 
 using namespace std;

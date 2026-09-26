@@ -1,3 +1,5 @@
+// Reads a friend's name, age, job status, hobby, and favorite food, then prints a formatted biodata card.
+
 #include <iostream>
 #include <string>
 using namespace std;

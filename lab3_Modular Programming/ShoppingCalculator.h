@@ -1,3 +1,5 @@
+// Multi-file shopping calculator: main.cpp handles input/output, Functions.cpp does the math, ShoppingCalculator.h declares the prototypes.
+
 #pragma once
 #ifndef SHOPPINGCALCULATOR_H
 #define SHOPPINGCALCULATOR_H

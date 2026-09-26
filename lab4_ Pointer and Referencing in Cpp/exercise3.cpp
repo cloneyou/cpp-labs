@@ -1,3 +1,5 @@
+// Reads two integers, swaps them using pointers, then prints before and after values.
+
 #include <iostream>
 using namespace std;
 

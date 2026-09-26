@@ -1,3 +1,6 @@
+// Prints a simple greeting, welcome message, and emoticon. No input, no variables.
+
+
 #include <iostream>
 using namespace std;
 

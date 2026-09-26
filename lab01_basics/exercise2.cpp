@@ -1,3 +1,6 @@
+// Simple calculator: reads two integers, prints sum, difference, product, and quotient (1 decimal).
+
+
 #include <iostream>
 #include <iomanip> 
 using namespace std;

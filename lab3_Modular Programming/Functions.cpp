@@ -1,3 +1,5 @@
+// Functions.cpp: Implements the shopping calculator functions (subtotal, discount, final price).
+
 #include "ShoppingCalculator.h"
 
 double calculateSubtotal(double price, int quantity) {

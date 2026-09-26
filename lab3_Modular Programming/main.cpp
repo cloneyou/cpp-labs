@@ -1,3 +1,5 @@
+// main.cpp: Shopping calculator program: reads price, quantity, and discount %, calls functions, and prints results.
+
 #include <iostream>
 #include <iomanip>
 #include "ShoppingCalculator.h" 

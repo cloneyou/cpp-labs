@@ -1,3 +1,5 @@
+// Reads length and width, computes rectangle area using a function, then prints the result.
+
 #include <iostream>
 using namespace std;
 
